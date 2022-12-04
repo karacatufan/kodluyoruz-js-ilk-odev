@@ -7,6 +7,5 @@ Bu çalışmada basitçe kullanıcıdan girişte isim alınıp ekrana yerleştir
 
 <h2> Ödev'in görünümü </h2>
 
-<video width="560" height="340" controls>
-  <source src="https://video.hizliresim.com/videos/cIEA9w86s5.mp4" type="video/mp4">
-</video>
+https://user-images.githubusercontent.com/110746614/205478465-65622bc4-c148-4306-99d6-de35142aeda0.mp4
+
