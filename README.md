@@ -8,5 +8,5 @@ Bu çalışmada basitçe kullanıcıdan girişte isim alınıp ekrana yerleştir
 <h2> Ödev'in görünümü </h2>
 
 <video width="560" height="340" controls>
-  <source src="Kodluyoruz Javascript Saat Ödevi.mp4" type="video/mp4">
+  <source src="https://video.hizliresim.com/videos/cIEA9w86s5.mp4" type="video/mp4">
 </video>
