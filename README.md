@@ -7,4 +7,4 @@ Bu çalışmada basitçe kullanıcıdan girişte isim alınıp ekrana yerleştir
 
 <h2> Ödev'in görünümü </h2>
 
-<iframe src="https://video.hizliresim.com/embed/eQeA7JhOL2" alt="odev-gorunum" width="500px">
+<img src="https://video.hizliresim.com/embed/eQeA7JhOL2" alt="odev-gorunum" width="500px">
